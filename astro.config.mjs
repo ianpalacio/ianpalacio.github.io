@@ -4,11 +4,10 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 // Get the site URL from environment variable or use a default for local development
-const site = process.env.PUBLIC_SITE_URL || 'http://ianpalacio.github.io';
+//  const site = process.env.PUBLIC_SITE_URL || 'http://ianpalacio.github.io';
 
 export default defineConfig({
    site: 'https://ianpalacio.github.io',
-  base: 'my-repo',
   site,
   vite: {
     plugins: [tailwindcss()],
