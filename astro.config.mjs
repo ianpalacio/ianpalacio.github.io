@@ -8,7 +8,6 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
    site: 'https://ianpalacio.github.io',
-  site,
   vite: {
     plugins: [tailwindcss()],
     css: {
