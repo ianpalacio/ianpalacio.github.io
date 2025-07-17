@@ -6,12 +6,8 @@ export const headerMenu = [
     { name: 'Blog', link: '/blog' },
     { name: 'Links', link: '/style-guide', showArrow: false,
         children: [
-            { name: 'Typography', link: '/style-guide#typography' },
-            { name: 'Colors', link: '/style-guide#colors' },
-            { name: 'Links', link: '/style-guide#links' },
-            { name: 'Buttons', link: '/style-guide#buttons' },
-            { name: 'Forms', link: '/style-guide#forms' },
-            { name: 'Lists', link: '/style-guide#lists' },
+            { name: 'Scripts', link: '/style-guide#typography' },
+            { name: 'HTB Account', link: '/style-guide#colors' },
         ]
     }
 ];
