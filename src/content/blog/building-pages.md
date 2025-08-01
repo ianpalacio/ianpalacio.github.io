@@ -55,7 +55,7 @@ const aboutSection = {
         {
             text: "Learn More",
             link: "/about",
-            variant: "secondary" as const
+            variant: "secondary" as consa
         }
     ]
 }
