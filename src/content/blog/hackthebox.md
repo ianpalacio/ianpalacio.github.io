@@ -19,7 +19,7 @@ Navigate to your blog post file in the **src/content/blog/** directory. The file
 ### Editing Frontmatter
 The frontmatter is the metadata section at the top of your markdown file, contained between the --- markers. Here's what you can modify:
 
-**title**: The post's main heading  
+**title**: ThPenal
 **excerpt**: A brief summary of your post  
 **featuredImage**: Path to the post's main image (automatically used for SEO too)  
 **publishDate**: Original publication date  
