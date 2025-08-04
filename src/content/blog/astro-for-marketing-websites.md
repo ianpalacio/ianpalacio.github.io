@@ -1,5 +1,5 @@
 ---
-title: "Why Astro JS is Perfect for Marketing Websites"
+title: "jaja2"
 excerpt: "Discover why Astro JS is the ideal framework for building high-performance marketing websites"
 featuredImage: "./images/astro-marketing.jpg"
 publishDate: "2025-03-15"

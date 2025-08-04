@@ -1,5 +1,5 @@
 ---
-title: "Introducing Titan Studio Themes"
+title: "jaja"
 excerpt: "Learn about Titan Studio Themes and our mission to create beautiful, functional Astro JS themes"
 featuredImage: "./images/titan-studio-themes.jpg"
 publishDate: "2023-11-15"
