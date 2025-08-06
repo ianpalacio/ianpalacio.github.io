@@ -31,7 +31,7 @@ seo:
 **• Windows Fundamentals**  
 **• Introduction to Windows Command Line**  
 **• Introduction to Bash Scripting**  
-**• Introdcution to Networking**  
+**• Introduction to Networking**  
 **• Intro to Network Traffic Analysis**  
 **• Intro to Active Directory**  
 **• Introduction to Web Applications**  
