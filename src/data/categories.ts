@@ -40,6 +40,11 @@ export const categories: Category[] = [
     slug: 'seo',
     description: 'Search engine optimization strategies and best practices'
   },
+  {
+    name: 'Review',
+    slug: 'review',
+    description: 'Analizamos temas distintos'
+  },
   
 ];
 

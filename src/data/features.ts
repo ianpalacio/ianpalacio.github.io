@@ -1,4 +1,5 @@
-import { Zap, Shield, Heart, Coffee, Smile, Type, TabletSmartphone, CodeXml } from 'lucide-astro';
+import { Zap, Shield, Heart, Coffee, Smile, Type, TabletSmartphone, CodeXml, X, Youtube, Terminal, AppWindow, Wifi, Computer, Webhook, Target } from 'lucide-astro';
+import { Icon } from 'astro-icon/components';
 
 // Define the LucideIcon type based on the structure of Lucide icons
 type LucideIcon = typeof Zap;
@@ -20,34 +21,34 @@ export const featureLists: Record<string, FeatureList> = {
         id: 'main',
         features: [
             {
-                icon: Zap,
-                title: 'Lightning Fast Performance',
-                description: 'Optimized for speed and performance'
+                icon: Terminal,
+                title: 'Manejo de Linux',
+                description: 'Uso intermedio de la consola, Bash Scripting, uso de varias distribuciones, uso de herramientas para el Sistema, etc.'
             },
             {
-                icon: Shield,
-                title: 'SEO Optimized Structure',
-                description: 'Built with SEO best practices in mind'
+                icon: AppWindow,
+                title: 'Manejo de Windows',
+                description: 'Uso intermedio de CMD y PowerShell, funcionalidades del sistema, fundamentos de Active Directory, etc.'
             },
             {
-                icon: TabletSmartphone,
-                title: 'Responsive by Default',
-                description: 'Mobile-friendly out of the box'
+                icon: Wifi,
+                title: 'Conocimiento de Redes Informáticas',
+                description: 'Comprension básica de cableado, aplicación de diversos protocolos, estructura de la WAN y LAN, Hacking Wi-Fi etico.'
             },
             {
-                icon: Smile,
-                title: 'Easy Customization',
-                description: 'Customize the theme to your liking'
-            },
-            {
-                icon: Type,
-                title: 'TypeScript Support',
-                description: 'Built with TypeScript in mind'
+                icon: Computer,
+                title: 'Fundamentos de CTFs',
+                description: 'Contacto inicial con diversas máquinas CTFs.'
             },
             {
                 icon: CodeXml,
-                title: 'Minimal Dependencies',
-                description: 'Keep your project lightweight'
+                title: 'HTML y CSS',
+                description: 'Fundamentos de Teoria Web.'
+            },
+            {
+                icon: Target,
+                title: 'Red Team Hat',
+                description: 'Habilidades de Red Team desarrolladas.'
             }
         ]
     },

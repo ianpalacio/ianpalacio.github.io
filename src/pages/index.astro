@@ -15,21 +15,21 @@ import RecentPosts from '@components/sections/RecentPosts.astro';
 import heroImage from '../assets/images/home/default-hero-2.jpg';
 import styleGuideImage from '../assets/images/home/developer.jpg';
 
-const seoTitle = "Modern, High-Performance Astro Theme";
-const seoDescription = "A modern, high-performance Astro theme for developer portfolios and documentation sites.";
+const seoTitle = "Blog de Ciberseguridad";
+const seoDescription = "Blog de Noticias, Review y Codigo.";
 
 const heroContent = {
-    title: 'The Foundation for Beautiful Astro JS Websites',
-    description: 'Titan Core is a minimal, performance-focused Astro JS theme that serves as the perfect foundation for your next web project. Built with clean code and modern best practices, it\'s designed to be extended and customized to your specific needs.',
+    title: 'Repositorio de mi Perfil Informático',
+    description: '¡Encontrarás todo lo relacionado a mí respecto a la Informática, ya sea proyectos, publicaciones, links, etc.!',
     buttons: [
+     //   {
+         //   text: 'Get Started',
+         //   link: '/contact',
+       //     target: '_self'
+     // },
         {
-            text: 'Get Started',
-            link: '/contact',
-            target: '_self'
-        },
-        {
-            text: 'View on GitHub',
-            link: 'https://github.com/rspisarski/titan-core',
+            text: 'Mi GitHub',
+            link: 'https://github.com/ianpalacio',
             target: '_blank'
         }
     ],
@@ -38,12 +38,12 @@ const heroContent = {
 }
 
 const featuresSection = {
-    eyebrow: "CORE FEATURES",
-    title: "Everything You Need, Nothing You Don't",
-    description: "Titan Core gives you a solid foundation with essential features while staying lightweight and customizable. Start with a clean slate and build exactly what you need without the bloat.",
+    eyebrow: "PERFIL",
+    title: "MIS HABILIDADES",
+    description: "Aca enumero mis habilidades sobre la informática, mi perfil es en conclusión de Nivel Intermedio pero me encuentro capacitandome aún más",
     features: featureLists.main.features,
     button: {
-        text: "View Theme Info",
+        text: "Mas información",
         link: "/theme-info",
         variant: "primary" as const
     }
@@ -61,34 +61,34 @@ const FooterCta = {
     }
 }
 
-const styleGuideSection = {
-    eyebrow: "Design System",
-    headline: "Consistent & Beautiful Components",
-    description: "Titan Core comes with a complete style guide to ensure your projects maintain visual consistency. From typography to interactive elements, we've carefully crafted each component.",
-    image: {
-        src: styleGuideImage,
-        alt: "Featured image"
-    },
-    buttons: [
-        {
-            text: "Explore Style Guide",
-            link: "/style-guide",
-            variant: "primary" as const
-        }
-    ]
-}
+// const styleGuideSection = {
+   // eyebrow: "",
+   // headline: "Consistent & Beautiful Components",
+   // description: "Titan Core comes with a complete style guide to ensure your projects maintain visual consistency. From typography to interactive elements, we've carefully crafted each component.",
+   // image: {
+     //   src: styleGuideImage,
+     //   alt: "Featured image"
+  //  },
+  //  buttons: [
+    //    {
+      //      text: "Explore Style Guide",
+        //    link: "/style-guide",
+       //     variant: "primary" as const
+      //  }
+  //  ]
+// }
 
 const sideBySideStats = {
     eyebrow: "Stats",
-    title: "Built for Speed and Flexibility",
-    description: "Titan Core is designed with performance and developer experience in mind. Our lightweight theme gives you all the essentials without the bloat, letting you build exactly what you need with impressive speed.",
+    title: "IanPalacio",
+    description: "Cada día mejorando la Web para alcanzar grandes ligas.",
     variant: 'side-by-side' as const,
     stats: statsLists.withContent.stats,
     content: {
-        title: "Built for Speed and Flexibility",
-        description: "Titan Core is designed with performance and developer experience in mind. Our lightweight theme gives you all the essentials without the bloat, letting you build exactly what you need with impressive speed.",
+        title: "IanPalacio",
+        description: "Cada día mejorando la Web para alcanzar grandes ligas.",
         button: {
-            text: "Discover Titan Core",
+            text: "Novedades del Sitio",
             link: "/theme-info",
             variant: "primary" as const
         }
@@ -113,19 +113,19 @@ const logosSection = {
     logos: logoLists.main.logos
 }
 
-const faqsSection = {
-    eyebrow: "FAQs",
-    title: 'Frequently Asked Questions',
-    description: 'Find answers to common questions about our platform and services.',
-    faqs: faqLists.main.faqs
-}
+// const faqsSection = {
+   // eyebrow: "FAQs",
+    //title: 'Frequently Asked Questions',
+   // description: 'Find answers to common questions about our platform and services.',
+   // faqs: faqLists.main.faqs
+// }
 
 const recentPostsSection = {
-    eyebrow: "LATEST INSIGHTS",
-    title: " Learn From Our Experience",
-    description: "Explore our latest articles on Astro JS development, theme customization tips, and web performance best practices.",
+    eyebrow: "ULTIMAS PUBLICACIONES",
+    title: "Explora mi Blog",
+    description: "Encuentra todo tipo de publicaciones, desde proyectos de codigo interesantes, noticias, reviews y demas cosas de este mundo de la Ciberseguridad.",
     button: {
-            text: "View All Posts",
+            text: "Ver todos los Posts",
             link: "/blog",
         variant: "primary" as const
     }
@@ -136,9 +136,9 @@ const recentPostsSection = {
     <Hero content={heroContent} />
     <Features content={featuresSection} padding="base" background="light" />
     <RecentPosts content={recentPostsSection} background="base" padding="base" postsToShow={3} category="Theme Usage"/>
-    <SplitPanel content={styleGuideSection} imagePosition="right" background="light" padding="base" />
+ <!--   <SplitPanel content={styleGuideSection} imagePosition="right" background="light" padding="base" /> -->
     <CtaBanner content={mainCta} variant="contained" background="light" paddingBottom="base" />
     <Logos content={logosSection} background="base" padding='small'/>
     <Stats content={sideBySideStats} background='dark' padding="base"/>
-    <Faqs content={faqsSection} background="base" padding="base" />
+   <!-- <Faqs content={faqsSection} background="base" padding="base" /> -->
 </Layout>
