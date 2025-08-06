@@ -1,5 +1,4 @@
 import { Zap, Shield, Heart, Coffee, Smile, Type, TabletSmartphone, CodeXml, X, Youtube, Terminal, AppWindow, Wifi, Computer, Webhook, Target } from 'lucide-astro';
-import { Icon } from 'astro-icon/components';
 
 // Define the LucideIcon type based on the structure of Lucide icons
 type LucideIcon = typeof Zap;
