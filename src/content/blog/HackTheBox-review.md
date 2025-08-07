@@ -7,20 +7,20 @@ publish: true
 categories: ["Review",]
 
 seo:
-  title: "Hablando de HackTheBox, ¿la mejor academia de ciberseguridad?"
+  title: "HackTheBox Review"
   description: "Un Review despues de ir tomando mi Octavo Modulo en esta academia, ¡hablamos de ventajas, desventajas, tips, opiniones, etc.!"
 ---
 
-## Introduccón a HackTheBox
+## Introducción a HackTheBox
 
-<span style="color: green;">**HackTheBox**</span> es una plataforma dedicada a mejorar el conocimiento de ciberseguridad para cualquier estudiante que lo desee. Fue creada en <span style="color: green;"> **2017**
-</span> y desde ese entonces han implementado diversas funcionalidades útiles, como: <span style="color: green;">**HTB Labs**</span> (laboratorios para hackear con entornos simulados), <span style="color: green;">**HTB Academy**</span> (del cual hablaremos hoy), <span style="color: green;">**HTB CTF**</span> (competencias de Hacking) y <span style="color: green;">**HTB Enterprise Plataform**</span> (orientada a empresas).
+<span style="color: green;">**HackTheBox**</span> es una plataforma dedicada a estudiantes para mejorar el conocimiento en ciberseguridad. Fue creada en <span style="color: green;"> **2017**
+</span> y desde ese entonces han implementado diversas plataformas integradas útiles como: <span style="color: green;">**HTB Labs**</span> (laboratorios para hackear con entornos simulados), <span style="color: green;">**HTB Academy**</span> (del cual hablaremos hoy), <span style="color: green;">**HTB CTF**</span> (competencias de Hacking) y <span style="color: green;">**HTB Enterprise Plataform**</span> (orientada a empresas).
 
 <span style="color: green;">**HackTheBox**</span> cuenta por su parte con financiación de diversas organizaciones, incluso a inicios del presente año, se asociaron con Google para fomentar la ciberseguridad sobre la <span style="color: blue;">**IA**</span>.
 
 ## HTB Academy: Estructura
 
-<span style="color: green;">**HackTheBox Academy**</span> es una academia como su nombre indica, para aprender ciberseguridad, sus curso estan estructurados por Paths: que no son mas que categorias que contiene modulos orientados hacia ciertos temas, por ejemplo, el Path Information Security Basics incluye:
+<span style="color: green;">**HackTheBox Academy**</span> es una academia como su nombre indica, para aprender ciberseguridad, sus curso estan estructurados por Paths: que no son mas que categorías que contienen módulos orientados hacia ciertos temas, por ejemplo, el Path Information Security Basics incluye:
 
 
 ### <u> <span style="color: green;">Information Security Basics</span></u>  
@@ -38,55 +38,93 @@ seo:
 **• Web Request**  
 
 
-Como vemos, el Path Information Security Basics esta conformado por distintos modulos que abarcan temas específicos.  
+Como vemos, el Path Information Security Basics esta conformado por distintos módulos que abarcan temas específicos.  
 
-Cada modulo esta dividido en secciones que abarcan subtemas, ejemplo:
+Cada módulo esta dividido en secciones que abarcan subtemas, ejemplo:
 
 ![HTB Secciones](./images/HackTheBox-secciones.png)
 
  ##### (Secciones del Modulo Windows Fundamentals).  
    
-Las secciones no son mas que paginas que abarcan el subtema en forma de texto, aunque tambien pueden presentar ejercicios para probar tus habilidades mediante la conexión a una maquina virtual remota. Por lo general, los modulos son largos y pueden ocupar días en completarse, incluso dedicandole mas de 4 horas al día; el promedio de duración por modulo es de aproximadamente 3-4 días. Recomendamos leer la documentación de la pagina antes de realizar algún modulo.
+Las secciones no son mas que páginas que abarcan el subtema en forma de texto, aunque tambien pueden presentar ejercicios para probar tus habilidades mediante la conexión a una máquina virtual remota. Por lo general, los módulos son largos y pueden ocupar días en completarse, incluso dedicandole mas de 4 horas al día; el promedio de duración por módulo es de aproximadamente 3-4 días. Recomendamos leer la documentación de la página antes de realizar algún módulo.
 
-## <span style="green">Nuestro Review</span>
+## <u>  <span style="green">**Nuestro Review**</span> </u>
 
- 
+Para dar un Review acerca de la plataforma será importane considerar varios aspectos sobre la modalidad de las clases como la calidad, claridad de los textos, enseñanza teórica y práctica, contenido, dificultad y ventajas y desventajas.
 
 
-- **Modular components**: Easily customizable sections and layouts
-- **Accessibility built-in**: Ensuring your site works for everyone
-- **SEO optimization**: Helping your content rank better in search engines
-- **Modern design principles**: Clean, responsive layouts that look great on any device
 
-Titan Core provides the essential structure and components that power all our specialized themes, ensuring consistency, quality, and reliability across our entire catalog.
+### <span style="color: black">**Calidad**</span>  
+Realmente es un buen curso que cuenta con una buena calidad de recursos para practicar y aprender, como podrían ser máquinas virtuales, una explicación muy bien estructurada y una plataforma demasiado funcional, probablemente uno de los pocos inconvenientes que puedas tener con la página es que suelen sobrecargarse las máquinas virtuales y las VPN para conectarse a ellas en horarios de mediodía, en caso de México es normal que se trabe entre las 12:00 p.m y 3:00 p.m, ya que la página se encuentra en esos momentos con la mayor cantidad de usuarios en el día.  
 
-## Our Theme Roadmap
+##### <span style="color: green">Calificación: 9.5/10</span>
+<br>
 
-We're excited to be developing a comprehensive suite of specialized themes to meet various website needs:
+### <span style="color: black">**Claridad**</span>  
+El contenido es decentemente claro, sin embargo muchos usuarios afirman y por experiencia, yo igualmente coincido en que en ocasiones falta explicar cosas y no hay siquiera espacios donde dejen documentación extra, que yo como cursante siempre la leía. Es cierto que la página en su introducción dice que se debe investigar más por afuera, pero en mi opinión, ciertos temas que abarcan tienen cierta incompletitud en su explicación. Es de admitir para quien tome el curso que muchas veces existiran situaciones muy frustrantes en que los ejercicos incluyan cosas que o no son posibles con las herramientas explicas que no se han enseñado; incluso ejercicos posibles, pero que incluyen resolver problemáticas extras las cuales no han sido tratadas. 
+##### <span style="color: green">Calificación: 8.5/10</span> 
+<br>
 
-- **Agency**: Perfect for creative agencies and service businesses
-- **Portfolio**: Showcase creative work with beautiful galleries and project pages
-- **Recipes**: A specialized theme for food blogs and recipe collections
-- **Design**: For design studios and creative professionals
-- **Personal Blog**: Simple, elegant layouts for writers and content creators
-- **Personal Resume**: Showcase your skills and experience with a professional online presence
-- **Marketing**: Conversion-focused designs for products and services
 
-Each theme builds upon our Titan Core foundation while adding specialized features, layouts, and design elements tailored to specific use cases.
 
-## Our Commitment
+### <span style="color: black">**Enseñanza teórica**</span>
+<span style="color: green">HackTheBox</span> enseña demasiado en lo teórico, es un aspecto en lo cual nunca fallará. <span style="color: green">HackTheBox</span> no solamente da tutoriales de como hacer las cosas, sino que se expande en la teória sobre como es que funciona por detrás cada herramienta, comando, etc; logrando un entendimiento suficiente en el aspecto teórico; es uno de los puntos mas fuertes de la plataforma.
 
-At Titan Studio Themes, we believe in:
 
-1. **Quality over quantity**: Each theme is meticulously crafted with attention to detail
-2. **Continuous improvement**: Regular updates and new features based on user feedback
-3. **Excellent documentation**: Comprehensive guides to help you make the most of our themes
-4. **Responsive support**: We're here to help when you need assistance
+##### <span style="color: green">Calificación: 10/10</span>
 
-Whether you're a developer looking for a solid foundation to build upon, or a business owner seeking a turnkey solution, Titan Studio Themes provides the tools you need to create exceptional websites with Astro JS.
 
-## Join Our Journey
 
-We're just getting started, and we invite you to join us on this exciting journey. Sign up for our newsletter to be the first to know about new theme releases, special offers, and helpful Astro JS tips and tricks.
+### <span style="color: black">**Enseñanza practica**</span>
+<span style="color: green">HackTheBox</span> no se queda atras en este aspecto, pues ofrece como ya antes mencionado máquinas virtuales, así como ejercicos que tendrás que hacer en ellas para contestar preguntas las cuales te permitirán pasar a la siguiente sección como requisito obligatorio, además de dejar ejercicios opcionales para probar las herramientas o comandos los cuales van explicando, dejando un conocimiento robusto en el aspecto práctico, pues los retos pueden ser tanto faciles como dificiles y frustrantes, sin embargo, se sabe que te dejan una preparación increible.
+<br>
 
-Ready to transform your web presence? Explore our themes and discover the perfect solution for your next project. 
+PD: Uno de los mejores aspectos de la enseñanza practica, es que puedes usar 2 horas al dia una máquina virtual de ellos por medio de la misma web, evadiendo la necesidad de conectarte por medio de una VPN tu mismo, es recomendable usarlo cuando se pueda, ya que suele ser mas comodo en mi opinión y claro, te ahorras tener una VM propia corriendo en otra ventana.
+
+##### <span style="color: green">Calificación: 10/10</span>
+
+
+
+### <span style="color: black">**Contenido**</span>
+La página no flaquea en este aspecto, tiene un contenido demasiado amplio, es cierto que se le crítica que ciertos temas a veces no terminan de explicarlo y se tiene que recurrir a la web, no obstante, no resta que cada módulo contenga una amplia variedad de temas en los que de forma extendida se trata cada uno de ellos, la mayoría incluyendo ejercicios. Uno de los cursos mas completos en mi opinión.
+<br>
+Es cierto que el contenido puede ser muy pesado y frustrante, por lo que siempre se recomienda haber tomado entrenamiento en ciberseguridad básico previamente.
+
+##### <span style="color: green">Calificación: 9.5/10</span>
+
+
+### <span style="color: black">**Dificultad**</span>
+<span style="color: green">HackTheBox</span> es una plataforma que a diferencia de <span style="color: red">TryHackMe</span> no es tan apropiado para principiantes como mencionado en el anterior aspecto, a pesar de eso, puede llegar a ser igualmente frustrante para un practicante intermedio, tendrás que lidiar al momento de los cursos con errores en los programas no previstos, errores que uno mismo comete con el syntax de comandos, algunos programas no compatibles, complicaciones con la máquina virtual, etc; asi que es necesario estar consciente que es un paso importante para aprender, pero que realmente puede jugar muchas malas pasadas.
+<br>
+La dificultad para un estudiante la rankeamos como:
+
+##### <span style="color: green">Dificultad: 9/10</span>
+
+<br>
+
+### <span style="color: black">**Ventajas y desventajas**</span>
+
+
+#### <span style="color: green">**Ventajas**</span>
+**• Contenido muy extenso**  
+**• Laboratorios para practicar**  
+**• La comunidad es extensa y ofrece muy buen apoyo**  
+**• Máquinas virtuales integradas en la misma Web**  
+**• Enseñanza teórica y práctica suficiente**  
+<br>
+
+
+#### <span style="color: green">**Desventajas**</span>
+
+**• No ofrece enseñanza por medios audiovisuales mas que los apoyos gráficos**  
+**• A veces las explicaciones no son del todo completas y hace falta investigar, aunque es solucionable**  
+**• No es apto para principiantes**  
+**• Las máquinas virtuales o VPN suelen tener una considerable sobrecarga en ocasiones**  
+**• Hay programas no compatibles con el OS Recomendado por ellos \(Parrot\), por lo que a veces hay que buscar metodos alternativos para conseguirlos**  
+<br>
+<br>
+## Conclusión
+Es una buena plataforma, la cual recomiendo de forma amplia debido a que en conjunto con todos los aspectos analizados realmente te prepara para empezar a practicar con entornos simulados herramientas de Hacking, por lo que le damos una calificacion final de <u> <span style="color: green">9.75</span>
+
+
+  ![HTB Final](./images/HackTheBox-final.png)
