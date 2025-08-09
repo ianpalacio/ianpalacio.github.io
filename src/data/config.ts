@@ -1,6 +1,6 @@
 export const siteConfig = {
-  companyName: 'Titan Core',
-  siteUrl: 'https://titan-core.com',
+  companyName: 'Ian Palacio',
+  siteUrl: 'https://ianpalacio.github.io',
   Socials: {
     //  xSocial: 'https://x.com/astrodotbuild',
       Github: 'https://github.com/ianpalacio',
@@ -14,8 +14,8 @@ export const siteConfig = {
 
 export const SEO = {
   Separator: '|',
-  SiteName: 'Titan Core',
-  defaultDescription: 'A modern, high-performance Astro JS theme',
+  SiteName: 'Ian Palacio',
+  defaultDescription: 'Pagina Personal de Ian Palacio',
 };
   
 export const blogSetting = {
