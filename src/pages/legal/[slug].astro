@@ -19,7 +19,7 @@ const seoTitle = entry.data.seo?.title || entry.data.title;
 const seoDescription = entry.data.seo?.description || '';
 
 // Format the last updated date
-const formattedDate = new Intl.DateTimeFormat('en-US', {
+const formattedDate = new Intl.DateTimeFormat('en-ES', {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
@@ -38,7 +38,7 @@ const heroContent = {
 
     <article class="site-container--small mx-auto px-8 prose pb-base">
         <div class="mt-12 mb-8">
-            <p class="text-sm text-body-base/80">Last updated: {formattedDate}</p>
+            <p class="text-sm text-body-base/80">Última vez actualizado: {formattedDate}</p>
         </div>
 
         <Content />

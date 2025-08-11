@@ -13,7 +13,7 @@ if (isNaN(dateObj.getTime())) {
     throw new Error('Invalid date provided to Date component');
 }
 
-const formattedDate = dateObj.toLocaleDateString('en-US', {
+const formattedDate = dateObj.toLocaleDateString('es-ES', {
     year: 'numeric',
     month: 'long',
     day: 'numeric'
