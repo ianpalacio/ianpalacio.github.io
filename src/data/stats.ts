@@ -62,7 +62,7 @@ export const statsLists: Record<string, StatsList> = {
                 value: 0,
                 label: ' ',
                 prefix: '',
-                suffix: 's'
+                suffix: ''
             }
         ]
     }
